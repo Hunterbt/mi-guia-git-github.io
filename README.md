@@ -1,6 +1,6 @@
 # mi-guia-git-github.io
 
-Cenário A: Você já tem um código em uma pasta local
+# Cenário A: Você já tem um código em uma pasta local
 
 Navegue até a pasta do seu projeto:
 Abra seu terminal ou prompt de comando e use cd para ir até a pasta onde seu código está. Exemplo:
